@@ -1,0 +1,7 @@
+{
+    "name": "<model name>",
+    "implementation": "custom_runtime.YOLOv8Model",
+    "parameters": {
+        "version": "v1"
+    }
+}
